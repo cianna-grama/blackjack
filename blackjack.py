@@ -3,7 +3,7 @@
 # Intro to Computer Science
 # blackjack.py
 
-# Playable blackjack game
+# Playable blackjack game with graphics GUI
 
 from graphics import *
 from PlayingCards import *
